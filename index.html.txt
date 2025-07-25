@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>R32 Refrigeración</title>
+</head>
+<body>
+  <h1>Bienvenidos a R32 Refrigeración</h1>
+  <p>Especialistas en climatización y aire acondicionado.</p>
+  <p>Contacto por WhatsApp: <a href="https://wa.me/543425067387">+543425067387</a></p>
+</body>
+</html>
